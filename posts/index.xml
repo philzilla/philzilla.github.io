@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo</title>
+    <link>https://philzilla.github.io/hugo/posts/</link>
+    <description>Recent content in Posts on Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr_fr</language>
+    <lastBuildDate>Mon, 04 Sep 2017 15:53:47 +0200</lastBuildDate>
+    
+	<atom:link href="https://philzilla.github.io/hugo/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nouvel Article 1</title>
+      <link>https://philzilla.github.io/hugo/posts/nouvel-article/</link>
+      <pubDate>Mon, 04 Sep 2017 15:53:47 +0200</pubDate>
+      
+      <guid>https://philzilla.github.io/hugo/posts/nouvel-article/</guid>
+      <description>“Peace of mind produces right values, right values produce right thoughts. Right thoughts produce right actions and right actions produce work which will be a material reflection for others to see of the serenity at the center of it all.” ― Robert M. Pirsig, Zen and the Art of Motorcycle Maintenance</description>
+    </item>
+    
+    <item>
+      <title>Nouvel Article 2</title>
+      <link>https://philzilla.github.io/hugo/posts/article-2/</link>
+      <pubDate>Mon, 04 Sep 2017 15:53:47 +0200</pubDate>
+      
+      <guid>https://philzilla.github.io/hugo/posts/article-2/</guid>
+      <description>“Peace of mind produces right values, right values produce right thoughts. Right thoughts produce right actions and right actions produce work which will be a material reflection for others to see of the serenity at the center of it all.” ― Robert M. Pirsig, Zen and the Art of Motorcycle Maintenance</description>
+    </item>
+    
+  </channel>
+</rss>
